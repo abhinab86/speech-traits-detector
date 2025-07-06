@@ -41,11 +41,21 @@ This project is an academic major project developed as part of my MCA degree. It
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-> Add 1–2 screenshots of the web interface here, if available
+### 🔹 Basic Interface  
+![GUI Page](assets/interface.png)  
+*A simple form where users can upload .wav audio files for prediction.*
 
----
+### 🔹 Audio Upload
+![Audio select](assets/audio_select.jpg)
+*User selects a .wav file by clicking on the choose file button*
+
+### 🔹 Prediction Result Page  
+![Prediction Output](assets/result.png)  
+*After processing, the predicted gender and emotion are displayed here.*
+
+
 
 ## ⚙️ How to Run the Project
 
